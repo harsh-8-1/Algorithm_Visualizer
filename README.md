@@ -1,1 +1,1 @@
-# Algorithm_Visualizer
+sorting algorithm visualizer using Python.
